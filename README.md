@@ -110,11 +110,10 @@ Data Output
 
 ```text
 Synchronous_RAM/
-│
-├── synchronous_ram.v
+├── Synchronous_ram.v
 ├── tb_synchronous_ram.v
-├── ram_block_diagram.png
-├── ram_simulation_waveform.png
+├── block_diagram.png
+├── waveform.png
 └── README.md
 ```
 
@@ -158,4 +157,6 @@ B.Tech – Electronics and VLSI Engineering
 
 ## 📌 Internship Task
 
-**Task 2 –
+**Task 2 – RAM Design**
+
+Designed and simulated a simple synchronous RAM with read and write operations using Verilog HDL and Xilinx Vivado.
